@@ -6,5 +6,5 @@
 
 ## Software needed to run for this app
 - VS Code (as Editor)
-- Browser (as runtime environment)
+- Google Chrome as Browser
 
