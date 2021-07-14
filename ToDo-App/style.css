@@ -1,0 +1,99 @@
+ 
+ body{
+  font-family: 'Trebuchet MS';
+  font-style: normal;
+  background-color:black;
+  
+}
+
+.container{
+  background-color: white;
+  padding: 100px 40px;
+  margin-top: 60px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 60px;
+  height: 300px;
+  width: 800px;
+  
+   
+}
+.container1{
+  text-align:center; 
+  display: block;
+  
+}
+
+.container2{
+  background-color: white;
+  margin-bottom: 100px;
+  width: 50%;
+   
+}
+
+.header {
+  background-color: white;
+  padding: 3px;
+  margin-top: 60px;
+  width: 50%;
+  color: black;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 white;
+  
+}
+
+ul {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+
+/* Styling the list items */
+li {
+  cursor: pointer;
+  position: relative;
+  padding: 10px 0px 10px 0px;
+  list-style-type: none;
+  background: white;
+  font-size: 20px;
+  text-align: left;
+  }
+
+
+/* Styling the close button */
+.close {
+  position: absolute;
+  right: 0;
+  top: 10;
+  padding: 6px 8px 6px 8px;
+  border-radius: 80%;
+  border:0.5px solid grey;
+  background-color: white;
+}
+
+
+/* Styling the input field */
+input {
+  border-radius: 10px;
+  border: thin solid grey;
+  width: 70%;
+  background-color: whitesmoke;
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+
+.submit {
+  padding: 10px;
+  margin-left: 3px;
+  width: 20%;
+  background: whitesmoke;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.4s;
+  border: thin solid grey;
+  border-radius: 10px;
+}
+
