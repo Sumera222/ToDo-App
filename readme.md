@@ -7,4 +7,9 @@
 ## Software needed to run for this app
 - VS Code (as Editor)
 - Browser (as runtime environment)
+## Live Link for this app
+- https://sumera222.github.io/ToDo-App/
+
+## Repository Link for this app
+- https://sumera222.github.io/ToDo-App/
 
